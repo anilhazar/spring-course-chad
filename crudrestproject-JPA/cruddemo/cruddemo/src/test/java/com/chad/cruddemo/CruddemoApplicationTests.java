@@ -1,10 +1,10 @@
-package com.springchadcourse.crudproject;
+package com.chad.cruddemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CrudprojectApplicationTests {
+class CruddemoApplicationTests {
 
 	@Test
 	void contextLoads() {
